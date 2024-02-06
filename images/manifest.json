@@ -1,0 +1,66 @@
+{
+  "id" : "https://mkimechentel.github.io/Warsh and Hafs Study 2/images/manifest.json",
+  "label" : {
+    "en" : [ "All images loaded in mkimechentel/Warsh-and-Hafs-Study-2 project" ]
+  },
+  "type" : "Manifest",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "width" : 603,
+    "id" : "https://mkimechentel.github.io/Warsh and Hafs Study 2/images/Warsh_15_8/canvas/",
+    "label" : {
+      "none" : [ "Warsh_15_8" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://mkimechentel.github.io/Warsh and Hafs Study 2/images/Warsh_15_8/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://mkimechentel.github.io/Warsh and Hafs Study 2/images/Warsh_15_8/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 19,
+              "height" : 24
+            }, {
+              "width" : 38,
+              "height" : 48
+            }, {
+              "width" : 76,
+              "height" : 96
+            }, {
+              "width" : 151,
+              "height" : 192
+            }, {
+              "width" : 302,
+              "height" : 384
+            }, {
+              "width" : 603,
+              "height" : 767
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 603,
+            "@id" : "https://mkimechentel.github.io/Warsh and Hafs Study 2/images/Warsh_15_8",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 767
+          } ],
+          "format" : "image/jpeg",
+          "width" : 603,
+          "id" : "https://mkimechentel.github.io/Warsh and Hafs Study 2/images/Warsh_15_8/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 767
+        },
+        "target" : "https://mkimechentel.github.io/Warsh and Hafs Study 2/images/Warsh_15_8/canvas/"
+      } ]
+    } ],
+    "height" : 767
+  } ]
+}
